@@ -4,12 +4,6 @@
 
 A real-time hand gesture recognition system that creates magical shield effects inspired by Doctor Strange, using computer vision and machine learning.
 
-<br>
-<p align="center">
-  <img width="640"  src="./images/example.png">
-</p>  <figcaption style="align: right">YouTube URL: https://www.youtube.com/watch?v=pXJt6sXhm_w.</figcaption>
-<br>
-
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)
